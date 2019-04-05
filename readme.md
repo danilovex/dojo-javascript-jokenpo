@@ -1,4 +1,4 @@
-# angular-dojo-jokenpo
+# dojo-javascript-jokenpo
 Dojo com aplicação de TDD em Javascritp + Mocha
 
 ## Dojo realizado com o problema Jokenpo
